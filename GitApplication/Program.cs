@@ -48,5 +48,11 @@
                 }
             }
         }
+        public void PrintMyName()
+        {
+            Console.WriteLine("Davydov Danil Dmitrievich");
+            Console.WriteLine("10.4");
+            Console.WriteLine("July, 7");
+        }
     }
 }
