@@ -50,7 +50,7 @@
                 }
             }
         }
-        public void PrintMyName()
+        public static void PrintMyName()
         {
             Console.WriteLine("Shatkov Timofey Konstantinovich");
             Console.WriteLine("10.4");
