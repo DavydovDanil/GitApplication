@@ -54,7 +54,7 @@
         {
             Console.WriteLine("Shatkov Timofey Konstantinovich");
             Console.WriteLine("10.4");
-            Console.WriteLine("July, 7");
+            Console.WriteLine("June, 15");
         }
         public void PrintMyName1()
         {
